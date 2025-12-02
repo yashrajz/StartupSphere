@@ -11,7 +11,7 @@ const Header = () => {
               <Globe className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold group-hover:text-primary transition-colors">
-              EventHorizon
+              StartupSphere
             </span>
           </a>
           
