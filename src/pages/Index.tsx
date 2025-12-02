@@ -10,7 +10,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>EventHorizon — Global Startup & Tech Events</title>
+        <title>StartupSphere — Global Startup & Tech Events</title>
         <meta 
           name="description" 
           content="Discover top startup, tech, and funding events worldwide. Curated picks, advanced filters, and organizer tools for founders, investors & builders." 
